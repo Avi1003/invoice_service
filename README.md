@@ -9,7 +9,7 @@ H2 Configuration :
 
 Swagger URL : http://localhost:8080/swagger-ui.html
 
-The Post method takes in json formatted in the following layout:
+The Post method takes in json formatted in the following layout :
     {
         "client": "ClientName",
         "invoiceDate": "2018-09-29",
