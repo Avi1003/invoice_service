@@ -1,7 +1,10 @@
 "# invoice_service"
 
-H2 Configuration :
+To run the application:
+    java -jar target\assessment-0.0.1-SNAPSHOT.jar
 
+H2 Configuration :
+    console URL : http://localhost:8080/console
     Driver Class : org.h2.Driver
     JDBC URL : jdbc:h2:mem:testdb
     User Name : sa
