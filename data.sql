@@ -1,0 +1,1 @@
+Insert into LINE_ITEM (DESCRIPTION, QUANTITY, UNIT_PRICE) values ("Line Item 1", 2, 50.25)
