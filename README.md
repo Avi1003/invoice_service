@@ -1,7 +1,8 @@
 "# invoice_service"
 
 To run the application:
-    java -jar target\assessment-0.0.1-SNAPSHOT.jar
+    java -jar target\assessment-0.0.1-SNAPSHOT.jar OR
+    mvn clean install spring-boot:run
 
 H2 Configuration :
     console URL : http://localhost:8080/console
